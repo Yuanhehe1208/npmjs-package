@@ -1,6 +1,6 @@
 {
   "name": "npmjs-package",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "自动管理版本号、生成 changlog、tag",
   "main": "index.js",
   "scripts": {
