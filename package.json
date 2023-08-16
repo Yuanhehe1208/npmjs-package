@@ -1,0 +1,23 @@
+{
+  "name": "npmjs-package",
+  "version": "1.0.0",
+  "description": "自动管理版本号、生成 changlog、tag",
+  "main": "index.js",
+  "scripts": {
+    "release": "release-it"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yuanhehe1208/npmjs-package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Yuanhehe1208/npmjs-package/issues"
+  },
+  "homepage": "https://github.com/Yuanhehe1208/npmjs-package",
+  "author": "hehehe",
+  "license": "ISC",
+  "devDependencies": {
+    "@release-it/conventional-changelog": "^7.0.0",
+    "release-it": "^16.1.5"
+  }
+}
